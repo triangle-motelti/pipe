@@ -8,8 +8,6 @@
 4. [How It Works](#how-it-works)
 5. [Features](#features)
 6. [Project Structure](#project-structure)
-7. [Contributing](#contributing)
-8. [License](#license)
 
 ## Introduction
 **Pipex** is a C program that simulates the behavior of Unix pipes (`|`), allowing you to chain commands together by redirecting the output of one command to the input of another. This implementation mimics the functionality of commands like:
